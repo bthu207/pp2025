@@ -1,2 +1,17 @@
-Student Name: Nguyễn Bích Thu 
-Student ID: 22BI13418
+<<<<<<< HEAD
+=======
+USTH ICT 2024 Advanced Programming with Python
+=====================================================
+
+Students are expected to:
+* Fork this repository to your github account
+* Push your commits regularly, with **proper** commit messages
+
+
+Student Info
+=========================
+
+* Student Name: Nguyễn Bích Thu 
+* Student ID: 22BI13418
+
+>>>>>>> bc9bbbe488cd30468c19ecaf05cf41160fd27410
